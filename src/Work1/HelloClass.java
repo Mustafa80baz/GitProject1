@@ -5,5 +5,6 @@ public class HelloClass {
         System.out.println("Work 1 started");
         System.out.println("Created Git Repository");
         System.out.println("Kendi Brachımı oluşturdum");
+        System.out.println("ilk push denemesi");
     }
 }
